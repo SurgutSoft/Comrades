@@ -1,0 +1,2 @@
+[0205/195205.970:ERROR:ipc_thread_impl.cc(103)] Unable to create IPC as client!Pipe name used: oauc_pipe6be5ff82292ad1e2deb0c030042b714d
+[0205/195205.990:ERROR:autoupdatechecker.cc(143)] Unable to prepare update checker runtime.
